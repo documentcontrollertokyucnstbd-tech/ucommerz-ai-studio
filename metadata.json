@@ -1,0 +1,6 @@
+{
+  "name": "UCOMMERZ",
+  "description": "A complete, premium service marketplace platform connecting skilled providers with seekers, featuring real-time messaging, calendar bookings, interactive analytics, and comprehensive admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
